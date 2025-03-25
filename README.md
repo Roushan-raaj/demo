@@ -1,4 +1,4 @@
 # demo
 This is my first repository.
 <br>
-Auther - Roushan Raj
+Auther - Roushan Raaj
